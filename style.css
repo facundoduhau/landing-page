@@ -68,7 +68,6 @@ li a:hover{
 }
 
 .jewelry{
-    border: red solid;
     display: flex;
     justify-content: end;
     align-items: center;
