@@ -71,6 +71,7 @@ button:hover{
     color: white;
     justify-content: space-evenly;
     align-items: center;
+    padding: 32px;
 }
 
 .info{
